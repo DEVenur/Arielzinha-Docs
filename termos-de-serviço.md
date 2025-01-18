@@ -20,7 +20,7 @@ A **Arielzinha** é licenciada sob a **GPL-2.0**, permitindo uso, modificação 
 O projeto é baseado no **MuseHeart MusicBot**, criado por *zRitsu (Alex)*, com modificações feitas por nós.  
 
 ## 5. Privacidade  
-Valorizamos a privacidade dos usuários. Leia nossa [Política de Privacidade](#) para entender como lidamos com suas informações. Não compartilhamos dados com terceiros sem seu consentimento, exceto quando exigido por lei.  
+Valorizamos a privacidade dos usuários. Leia nossa [Política de Privacidade](#https://github.com/DEVenur/Arielzinha-Docs/blob/main/pol%C3%ADtica-de-privacidade.md) para entender como lidamos com suas informações. Não compartilhamos dados com terceiros sem seu consentimento, exceto quando exigido por lei.  
 
 ## 6. Limitação de Responsabilidade  
 Não somos responsáveis por danos diretos ou indiretos decorrentes do uso ou incapacidade de uso do serviço. O uso do bot é por sua conta e risco.  
