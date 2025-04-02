@@ -1,6 +1,6 @@
 Arielzinha - Um app de música para Discord
 
-Este é um bot de música baseado no projeto [MuseHeart-MusicBot](https://github.com/zRitsu/MuseHeart-MusicBot), desenvolvido originalmente por zRitsu (Alex). Ele permite reproduzir músicas diretamente do Discord com suporte a comandos de barra/slash, integração com Last.fm, player interativo e muito mais.
+Este é um bot de música baseado no projeto [MuseHeart-MusicBot](https://github.com/zRitsu/MuseHeart-MusicBot), desenvolvido originalmente por [zRitsu (Alex)](https://github.com/zRitsu). Ele permite reproduzir músicas diretamente do Discord com suporte a comandos de barra/slash, integração com Last.fm, player interativo e muito mais.
 
 Recursos
 
@@ -22,7 +22,7 @@ Agradecimentos:
 
 [zRitsu (Alex)](https://github.com/zRitsu) pelo desenvolvimento da MuseHeart-Music Bot e atualizações do código-fonte.
 
-[DisnakeDev](https://github.com/DisnakeDev)) e Rapptz pelo [discord.py](https://github.com/Rapptz/discord.py).
+[DisnakeDev](https://github.com/DisnakeDev) e Rapptz pelo [discord.py](https://github.com/Rapptz/discord.py).
 
 [Pythonista Guild](https://github.com/PythonistaGuild) pelo Wavelink.
 
