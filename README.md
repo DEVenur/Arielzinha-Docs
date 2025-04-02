@@ -1,8 +1,8 @@
-Meu Bot de Música
+Arielzinha - Um app de música para Discord
 
-Este é um bot de música baseado no projeto Muse Heart Music Bot, desenvolvido originalmente por zRitsu (Alex). Ele permite reproduzir músicas diretamente do Discord com suporte a comandos de barra/slash, integração com Last.fm, player interativo e muito mais.
+Este é um bot de música baseado no projeto [MuseHeart-MusicBot](https://github.com/zRitsu/MuseHeart-MusicBot), desenvolvido originalmente por zRitsu (Alex). Ele permite reproduzir músicas diretamente do Discord com suporte a comandos de barra/slash, integração com Last.fm, player interativo e muito mais.
 
-Recursos Principais
+Recursos
 
 Comandos intuitivos para reproduzir, pausar, pular e controlar faixas.
 
@@ -14,45 +14,13 @@ Integração com Last.fm para recomendações musicais.
 
 Compatibilidade com vários serviços de streaming.
 
-Multi-bot: permite hospedar vários bots com a mesma source.
-
-Suporte a deploy em diversas plataformas.
-
-
-Como Usar
-
-1. Adicione o bot ao seu servidor do Discord.
-
-
-2. Use os comandos disponíveis para interagir com o player.
-
-
-3. Aproveite a experiência musical com seus amigos!
-
-
-
-Hospedagem
-
-Este bot pode ser hospedado em diversas plataformas, incluindo:
-
-Replit
-
-Render.com
-
-Gitpod
-
-VPS própria (Windows/Linux)
-
-
 Licença
 
-Este projeto segue a licença GPL-2.0, conforme a source original do Muse Heart Music Bot. Caso faça modificações ou implemente novas funcionalidades, é recomendável ter conhecimento em Python, Disnake, Lavalink e Git.
+Este projeto segue a licença GPL-2.0, conforme a source original da Muse Heart Music Bot. Caso faça modificações ou implemente novas funcionalidades, é recomendável ter conhecimento em Python, Disnake, Lavalink e Git.
 
-Agradecimentos
+Agradecimentos:
 
-Créditos especiais para:
-
-[zRitsu (Alex)](https://github.com/zRitsu/MuseHeart-MusicBot) pelo desenvolvimento do Muse Heart Music Bot e atualizações da código-fonte.
+[zRitsu (Alex)](https://github.com/zRitsu) pelo desenvolvimento da MuseHeart-Music Bot e atualizações do código-fonte.
 
 [DisnakeDev](https://github.com/DisnakeDev)) e Rapptz pelo [discord.py](https://github.com/Rapptz/discord.py).
 
@@ -64,4 +32,4 @@ Créditos especiais para:
 
 Todos que contribuíram com feedback e melhorias no código-fonte da Muse Heart ❤
 
-Caso tenha dúvidas ou encontre problemas, reporte uma issue no projeto original para ajuda. Aproveite o app!
+Caso tenha dúvidas ou encontre problemas, reporte uma issue no projeto original (MuseHeart) para ajuda.
