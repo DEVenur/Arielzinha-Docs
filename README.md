@@ -16,7 +16,7 @@ Compatibilidade com vários serviços de streaming.
 
 Licença
 
-Este projeto segue a licença GPL-2.0, conforme a source original da Muse Heart Music Bot. Caso faça modificações ou implemente novas funcionalidades, é recomendável ter conhecimento em Python, Disnake, Lavalink e Git.
+Este projeto segue a licença GPL-2.0, conforme a source original da MuseHeart-MusicBot.
 
 Agradecimentos:
 
