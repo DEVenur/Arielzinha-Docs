@@ -21,5 +21,5 @@ Este é um bot de música baseado no projeto [MuseHeart-MusicBot](https://github
 - [Pythonista Guild](https://github.com/PythonistaGuild) pelo Wavelink
 - [Lavalink-Devs](https://github.com/lavalink-devs) pelo desenvolvimento do Lavalink
 - [DarrenOfficial, Appujet e AjieDev](https://free.lavalink.rf.gd/list) pela lista de servidores Lavalink
-- E a todos os membros que ajudaram com reports de erros (sendo nas [issues](https://github.com/zRitsu/MuseHeart-MusicBot/issues) e no servidor do discord, da Muse)
+- E a todos os membros que ajudaram com reports de erros (sendo nas [issues](https://github.com/zRitsu/MuseHeart-MusicBot/issues) e no servidor do discord da Muse)
 - Demais atribuições podem ser conferidas no [dependency graph](https://github.com/zRitsu/MuseHeart-MusicBot/network/dependencies)
