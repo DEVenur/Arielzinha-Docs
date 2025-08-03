@@ -7,7 +7,7 @@ Sua privacidade é fundamental para nós. Esta política explica de forma transp
 
 *   **O que coletamos?** Apenas o necessário para o bot funcionar: IDs do Discord (usuário, servidor, canais), configurações do servidor e comandos executados.
 *   **Por que coletamos?** Para oferecer e melhorar as funcionalidades do bot, salvar suas preferências e corrigir problemas.
-*   **Seus dados são vendidos?** Nunca. Não vendemos, alugamos nem usamos seus dados para marketing.
+*   **Seus dados são vendidos?** Nunca. Não vendemos, alugamos, e nem usamos seus dados para marketing.
 *   **Com quem compartilhamos?** Apenas com provedores de serviços essenciais (como a hospedagem do bot) ou se formos obrigados por lei.
 *   **Quais são seus direitos?** Você pode solicitar o acesso ou a exclusão de seus dados a qualquer momento.
 
