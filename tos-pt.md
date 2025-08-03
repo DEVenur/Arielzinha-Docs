@@ -18,11 +18,11 @@ Ao utilizar o bot **Arielzinha**, você confirma que leu, entendeu e concorda em
 
 ## 3. Descrição e Disponibilidade do Serviço
 
-A **Arielzinha** é um bot de música projetado para servidores Discord, permitindo a reprodução de conteúdo de plataformas de streaming. O serviço é oferecido "no estado em que se encontra" ("as is"), sem garantias de qualquer tipo. [3] Não garantimos que o Bot estará sempre disponível, livre de erros ou que atenderá a todas as suas expectativas. [3] Reservamo-nos o direito de modificar, suspender ou descontinuar o Serviço, total ou parcialmente, a qualquer momento, com ou sem aviso prévio.
+A **Arielzinha** é um bot de música projetado para servidores Discord, permitindo a reprodução de conteúdo de plataformas de streaming. O serviço é oferecido "no estado em que se encontra" ("as is"), sem garantias de qualquer tipo. Não garantimos que o Bot estará sempre disponível, livre de erros ou que atenderá a todas as sua expectativas. Reservamo-nos o direito de modificar, suspender ou descontinuar o Serviço, total ou parcialmente, a qualquer momento, com ou sem aviso prévio.
 
 ## 4. Uso Adequado e Conduta do Usuário
 
-Você concorda em utilizar a **Arielzinha** de forma responsável e em conformidade com as leis aplicáveis e os Termos de Serviço do Discord. [5, 8] É estritamente proibido:
+Você concorda em utilizar a **Arielzinha** de forma responsável e em conformidade com as leis aplicáveis e os Termos de Serviço do Discord. É estritamente proibido:
 
 *   Transmitir qualquer conteúdo que seja ilegal, difamatório, ofensivo, odioso ou prejudicial.
 *   Utilizar o Bot para fins de spam, assédio ou qualquer forma de abuso contra outros usuários.
@@ -42,23 +42,23 @@ O Bot permite o acesso a conteúdos de terceiros, como músicas e vídeos. Você
 
 ## 6. Política de Privacidade
 
-Nós levamos sua privacidade a sério. Para entender como coletamos e utilizamos seus dados, por favor, leia nossa [Política de Privacidade](https://github.com/DEVenur/Arielzinha-Docs/blob/main/pol%C3%ADtica-de-privacidade.md). Não compartilharemos suas informações pessoais com terceiros sem o seu consentimento, a menos que seja exigido por lei. [3]
+Nós levamos sua privacidade a sério. Para entender como coletamos e utilizamos seus dados, por favor, leia nossa [Política de Privacidade](https://github.com/DEVenur/Arielzinha-Docs/blob/main/pol%C3%ADtica-de-privacidade.md). Não compartilharemos suas informações pessoais com terceiros sem o seu consentimento, a menos que seja exigido por lei.
 
 ## 7. Limitação de Responsabilidade
 
-Até o limite máximo permitido pela lei, não seremos responsáveis por quaisquer danos diretos, indiretos, incidentais ou consequenciais resultantes do uso ou da incapacidade de usar a **Arielzinha**. [1, 3] Isso inclui, mas não se limita a, perda de dados, interrupção de serviços ou danos a servidores. Você concorda em usar o Bot por sua conta e risco.
+Até o limite máximo permitido pela lei, não seremos responsáveis por quaisquer danos diretos, indiretos, incidentais ou consequenciais resultantes do uso ou da incapacidade de usar a **Arielzinha**. Isso inclui, mas não se limita a, perda de dados, interrupção de serviços ou danos a servidores. Você concorda em usar o Bot por sua conta e risco.
 
 ## 8. Alterações nos Termos
 
-Podemos revisar e atualizar estes Termos de Serviço periodicamente. [1] Quando fizermos alterações significativas, faremos o possível para notificá-lo através do nosso servidor de suporte ou outros canais de comunicação. É sua responsabilidade verificar esta página regularmente. A continuação do uso do Bot após a publicação de alterações constitui sua aceitação dos novos Termos.
+Podemos revisar e atualizar estes Termos de Serviço periodicamente. Quando fizermos alterações significativas, faremos o possível para notificá-lo através do nosso servidor de suporte ou outros canais de comunicação. É sua responsabilidade verificar esta página regularmente. A continuação do uso do Bot após a publicação de alterações constitui sua aceitação dos novos Termos.
 
 ## 9. Rescisão
 
-Reservamo-nos o direito de suspender ou encerrar seu acesso ao Bot a qualquer momento, sem aviso prévio, por qualquer motivo, incluindo, mas não se limitando a, violações destes Termos. [3, 15] Com o encerramento, seu direito de usar o Serviço cessará imediatamente.
+Reservamo-nos o direito de suspender ou encerrar seu acesso ao Bot a qualquer momento, sem aviso prévio, por qualquer motivo, incluindo, mas não se limitando a, violações destes Termos. Com o encerramento, seu direito de usar o Serviço cessará imediatamente.
 
 ## 10. Lei Aplicável e Jurisdição
 
-Estes Termos serão regidos e interpretados de acordo com as leis do Brasil. Você concorda que qualquer disputa legal decorrente do uso do Bot será submetida à jurisdição exclusiva dos tribunais localizados no Brasil. [1]
+Estes Termos serão regidos e interpretados de acordo com as leis do Brasil. Você concorda que qualquer disputa legal decorrente do uso do Bot será submetida à jurisdição exclusiva dos tribunais localizados no Brasil.
 
 ## 11. Contato
 
