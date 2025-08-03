@@ -2,7 +2,7 @@
 
 **Última atualização:** 3 de agosto de 2025
 
-## Resumo (TL;DR)
+## Resumo
 Sua privacidade é fundamental para nós. Esta política explica de forma transparente como seus dados são tratados.
 
 *   **O que coletamos?** Apenas o necessário para o bot funcionar: IDs do Discord (usuário, servidor, canais), configurações do servidor e comandos executados.
