@@ -1,43 +1,76 @@
-# Política de Privacidade da Arielzinha  
+# Política de Privacidade da Arielzinha
 
-Sua privacidade é importante para nós. Esta política descreve como coletamos, usamos e protegemos suas informações ao utilizar o bot **Arielzinha** no Discord.  
+**Última atualização:** 3 de agosto de 2025
 
-## 1. Coleta de Informações  
-Ao usar o **Arielzinha**, podemos coletar os seguintes dados:  
-- IDs de usuários, servidores, canais e mensagens para funcionalidades específicas.  
-- Informações sobre comandos enviados ao bot.  
-- Dados necessários para a operação, como logs técnicos temporários.  
+## Resumo (TL;DR)
+Sua privacidade é fundamental para nós. Esta política explica de forma transparente como seus dados são tratados.
 
-Não coletamos informações pessoais sensíveis ou confidenciais.  
-
-## 2. Uso das Informações  
-As informações coletadas são usadas exclusivamente para:  
-- Fornecer e melhorar as funcionalidades do bot.  
-- Diagnosticar e corrigir problemas técnicos.  
-- Garantir a segurança e o funcionamento correto do serviço.  
-
-Não utilizamos seus dados para fins de marketing ou compartilhamos com terceiros sem seu consentimento, exceto quando exigido por lei.  
-
-## 3. Armazenamento e Segurança  
-- As informações são armazenadas em servidores protegidos com medidas de segurança adequadas.  
-- Dados desnecessários ou temporários são apagados periodicamente.  
-- Tomamos precauções para evitar acesso não autorizado, mas não podemos garantir segurança absoluta.  
-
-## 4. Compartilhamento de Informações  
-Podemos compartilhar informações apenas nas seguintes situações:  
-- Quando exigido por lei ou por ordem judicial.  
-- Para proteger nossos direitos e garantir a segurança do serviço.  
-
-## 5. Seus Direitos  
-Você tem o direito de:  
-- Solicitar acesso aos dados armazenados sobre você.  
-- Pedir a exclusão de suas informações, salvo quando necessárias para o funcionamento do serviço.  
-- Retirar o uso do bot se não concordar com esta política.    
-
-## 6. Alterações nesta Política  
-Podemos atualizar esta Política de Privacidade periodicamente. Notificaremos alterações significativas, mas é sua responsabilidade revisar esta página regularmente. O uso contínuo do bot após mudanças implica aceitação da política revisada.  
-
-## 7. Contato  
-Em caso de dúvidas ou preocupações sobre sua privacidade, entre em contato conosco pelo nosso [Discord](https://dcserver.link/brasilpokedrink).  
+*   **O que coletamos?** Apenas o necessário para o bot funcionar: IDs do Discord (usuário, servidor, canais), configurações do servidor e comandos executados.
+*   **Por que coletamos?** Para oferecer e melhorar as funcionalidades do bot, salvar suas preferências e corrigir problemas.
+*   **Seus dados são vendidos?** Nunca. Não vendemos, alugamos nem usamos seus dados para marketing.
+*   **Com quem compartilhamos?** Apenas com provedores de serviços essenciais (como a hospedagem do bot) ou se formos obrigados por lei.
+*   **Quais são seus direitos?** Você pode solicitar o acesso ou a exclusão de seus dados a qualquer momento.
 
 ---
+
+## 1. Introdução
+Bem-vindo à Política de Privacidade da **Arielzinha** ("Bot"). Este documento detalha quais informações coletamos, como as utilizamos e as medidas que tomamos para protegê-las. Esta política se aplica a todos os usuários que interagem com o Bot em qualquer servidor do Discord.
+
+Ao adicionar ou usar a Arielzinha, você consente com as práticas descritas neste documento.
+
+## 2. As Informações que Coletamos
+Coletamos apenas os dados estritamente necessários para a operação do Bot. Eles se dividem em duas categorias:
+
+#### a) Dados Fornecidos Diretamente por Você
+*   **Configurações do Servidor:** Informações que os administradores configuram, como prefixo de comando, canais de música designados, cargos de DJ, e outras preferências específicas do servidor.
+
+#### b) Dados Coletados Automaticamente (Dados de Uso)
+*   **Identificadores do Discord (IDs):** IDs de Usuário, Servidor (Guild) e Canal são coletados para executar comandos corretamente, aplicar configurações e gerenciar permissões.
+*   **Dados de Comandos:** O conteúdo dos comandos que você executa (ex: `!play <link da música>`). Esses dados são processados para atender à sua solicitação e não são armazenados permanentemente em nosso banco de dados.
+*   **Logs Técnicos:** Registros de diagnósticos e erros, que podem incluir IDs e comandos, usados para monitorar a estabilidade, identificar bugs e garantir a segurança do serviço. Esses logs são rotativos e excluídos periodicamente.
+
+#### c) O que NÃO Coletamos
+Nós **NÃO** coletamos, armazenamos ou solicitamos:
+*   Seu endereço de e-mail ou senha do Discord.
+*   Qualquer conteúdo de mensagens em servidores que não sejam comandos diretos para o Bot.
+*   Informações pessoais sensíveis como nome real, endereço ou idade.
+
+## 3. Finalidade e Base Legal para o Tratamento de Dados
+Utilizamos seus dados com finalidades específicas e amparados por uma base legal clara.
+
+| Tipo de Dado | Finalidade do Uso | Base Legal |
+| :--- | :--- | :--- |
+| IDs (Usuário, Servidor, Canal) | Operar o Bot, aplicar configurações e permissões. | **Execução de um Serviço** |
+| Configurações do Servidor | Personalizar a experiência do Bot no seu servidor. | **Execução de um Serviço** |
+| Comandos e Interações | Processar suas solicitações (tocar música, pular, etc.). | **Execução de um Serviço** |
+| Logs Técnicos | Diagnosticar erros, monitorar performance e prevenir abusos. | **Interesse Legítimo** |
+
+## 4. Compartilhamento e Divulgação de Dados
+A confiança dos nossos usuários é nossa prioridade. Não vendemos ou alugamos seus dados. O compartilhamento é restrito às seguintes situações:
+
+*   **Provedores de Hospedagem:** O Bot e seu banco de dados são hospedados em plataformas de terceiros (serviços de nuvem). Esses provedores têm acesso aos dados armazenados, mas estão contratualmente obrigados a mantê-los seguros e confidenciais.
+*   **Obrigação Legal:** Podemos divulgar suas informações se formos obrigados por lei, intimação ou outro processo legal válido, ou para proteger nossos direitos, propriedade e segurança.
+
+## 5. Segurança e Retenção de Dados
+*   **Segurança:** Implementamos medidas de segurança técnicas e administrativas para proteger seus dados, incluindo controle de acesso rigoroso e criptografia para dados em trânsito e em repouso. No entanto, nenhum sistema é 100% seguro, e não podemos garantir segurança absoluta.
+*   **Retenção:** Mantemos os dados apenas pelo tempo necessário:
+    *   **Configurações do Servidor:** São mantidas enquanto o Bot permanecer no seu servidor. Ao remover o Bot, esses dados são marcados para exclusão.
+    *   **Logs Técnicos:** São excluídos automaticamente em um ciclo regular (geralmente, 7 a 30 dias).
+
+## 6. Seus Direitos de Privacidade
+Você, como usuário, possui controle sobre suas informações. Seus direitos incluem:
+
+*   **Direito de Acesso:** Você pode solicitar uma cópia dos dados que temos associados ao seu servidor ou usuário.
+*   **Direito à Retificação:** Se alguma informação estiver incorreta, você pode solicitar a sua correção.
+*   **Direito à Exclusão (Direito de Ser Esquecido):** Você pode solicitar a exclusão de seus dados. A maneira mais simples de fazer isso para dados de servidor é remover o Bot do servidor. Para solicitações individuais, entre em contato conosco.
+
+Para exercer qualquer um desses direitos, entre em contato através do nosso servidor de suporte.
+
+## 7. Privacidade de Menores
+Nosso serviço é destinado a usuários que atendem ao requisito de idade mínima do Discord (atualmente 13 anos ou mais). Não coletamos intencionalmente informações de identificação pessoal de crianças com menos de 13 anos. Se descobrirmos que uma criança nos forneceu dados, tomaremos medidas para removê-los de nossos sistemas.
+
+## 8. Alterações a Esta Política de Privacidade
+Podemos atualizar esta política periodicamente. Notificaremos sobre mudanças significativas através do nosso servidor de suporte ou outros canais oficiais. A continuação do uso do Bot após a data de atualização constitui sua aceitação dos novos termos.
+
+## 9. Contato
+Para quaisquer dúvidas, preocupações ou para exercer seus direitos de privacidade, a melhor forma de nos contatar é através do nosso [servidor oficial no Discord](https://dcserver.link/brasilpokedrink).
