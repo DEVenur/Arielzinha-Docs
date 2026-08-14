@@ -1,6 +1,6 @@
 # Política de Privacidade da Arielzinha
 
-**Última atualização:** 3 de agosto de 2025
+**Última atualização:** 14 de agosto de 2026
 
 ## Resumo
 Sua privacidade é fundamental para nós. Esta política explica de forma transparente como seus dados são tratados.
@@ -26,6 +26,7 @@ Coletamos apenas os dados estritamente necessários para a operação do Bot. El
 
 #### b) Dados Coletados Automaticamente (Dados de Uso)
 *   **Identificadores do Discord (IDs):** IDs de Usuário, Servidor (Guild) e Canal são coletados para executar comandos corretamente, aplicar configurações e gerenciar permissões.
+*   **Presença em Canais de Voz:** Para operar o player de música, o Bot verifica em tempo real quais membros estão presentes no canal de voz onde ele está tocando, a fim de diferenciar ouvintes reais de outros bots. Isso é usado para desconectar automaticamente o player quando não há mais ouvintes humanos presentes e para exibir estatísticas de membros em comandos informativos (ex: `/about`). Esses dados não são armazenados; são consultados sob demanda e descartados imediatamente após o uso.
 *   **Dados de Comandos:** O conteúdo dos comandos que você executa (ex: `!play <link da música>`). Esses dados são processados para atender à sua solicitação e não são armazenados permanentemente em nosso banco de dados.
 *   **Logs Técnicos:** Registros de diagnósticos e erros, que podem incluir IDs e comandos, usados para monitorar a estabilidade, identificar bugs e garantir a segurança do serviço. Esses logs são rotativos e excluídos periodicamente.
 
@@ -41,6 +42,7 @@ Utilizamos seus dados com finalidades específicas e amparados por uma base lega
 | Tipo de Dado | Finalidade do Uso | Base Legal |
 | :--- | :--- | :--- |
 | IDs (Usuário, Servidor, Canal) | Operar o Bot, aplicar configurações e permissões. | **Execução de um Serviço** |
+| Presença em Canais de Voz | Detectar ouvintes reais, desconexão automática e estatísticas. | **Execução de um Serviço** |
 | Configurações do Servidor | Personalizar a experiência do Bot no seu servidor. | **Execução de um Serviço** |
 | Comandos e Interações | Processar suas solicitações (tocar música, pular, etc.). | **Execução de um Serviço** |
 | Logs Técnicos | Diagnosticar erros, monitorar performance e prevenir abusos. | **Interesse Legítimo** |
