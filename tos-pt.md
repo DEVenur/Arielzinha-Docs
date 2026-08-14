@@ -1,6 +1,6 @@
 # Termos de Serviço da Arielzinha
 
-**Última atualização:** 3 de agosto de 2025
+**Última atualização:** 14 de agosto de 2026
 
 Bem-vindo(a) à Arielzinha! Estes Termos de Serviço ("Termos") regem o seu uso do nosso bot de música no Discord. Ao adicionar ou utilizar a Arielzinha em um servidor, você concorda com estes Termos. É importante que você leia e compreenda estas regras.
 
@@ -42,7 +42,7 @@ O Bot permite o acesso a conteúdos de terceiros, como músicas e vídeos. Você
 
 ## 6. Política de Privacidade
 
-Nós levamos sua privacidade a sério. Para entender como coletamos e utilizamos seus dados, por favor, leia nossa [Política de Privacidade](https://github.com/DEVenur/Arielzinha-Docs/blob/main/pol%C3%ADtica-de-privacidade.md). Não compartilharemos suas informações pessoais com terceiros sem o seu consentimento, a menos que seja exigido por lei.
+Nós levamos sua privacidade a sério. Para entender como coletamos e utilizamos seus dados, por favor, leia nossa [Política de Privacidade](https://github.com/DEVenur/arielzinha-docs/blob/main/privacy-pt.md). Não compartilharemos suas informações pessoais com terceiros sem o seu consentimento, a menos que seja exigido por lei.
 
 ## 7. Limitação de Responsabilidade
 
