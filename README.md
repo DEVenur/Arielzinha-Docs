@@ -10,6 +10,11 @@ Este é um bot de música baseado no projeto [MuseHeart-MusicBot](https://github
 - Integração com Last.fm para scrobble de músicas enquanto escuta.
 - Compatibilidade com vários serviços de streaming e música local.
 
+## Legal
+
+- [Política de Privacidade (PT)](https://github.com/DEVenur/arielzinha-docs/blob/main/privacy-pt.md) · [Privacy Policy (EN)](https://github.com/DEVenur/arielzinha-docs/blob/main/privacy-en.md)
+- [Termos de Serviço (PT)](https://github.com/DEVenur/arielzinha-docs/blob/main/tos-pt.md) · [Terms of Service (EN)](https://github.com/DEVenur/arielzinha-docs/blob/main/tos-en.md)
+
 ## Licença
 
 - Este projeto segue a licença GPL-2.0, conforme a source original da MuseHeart-MusicBot.
